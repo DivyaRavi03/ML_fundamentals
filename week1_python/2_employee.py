@@ -18,12 +18,10 @@ class Employee:
         self.salary = int(salary)
     
     def email(self):
-        self.email = self.first_name + '.' + self.last_name + '@company.com'
-        return self.email
-    
+        return self.first_name + '.' + self.last_name + '@company.com'
+        
     def full_name(self):
-        self.full_name = self.first_name + ' ' + self.last_name
-        return self.full_name
+        return self.first_name + ' ' + self.last_name 
 
     def apply_raise(self):
         self.salary = int(self.salary * self.raise_percentage)
