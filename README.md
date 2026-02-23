@@ -7,7 +7,7 @@ All files in this repository are written entirely by me from scratch as part of 
 
 The purpose of this repository is to strengthen my understanding of ML fundamentals by implementing everything independently rather than just following along.
 
-## Topics Covered:
+## Topics Covered in [Statistical Models folder](https://github.com/DivyaRavi03/ML_fundamentals/tree/main/statistical_models):
 1. Linear Regression (Single varibale, Multivariate)
 2. Splitting train, test data
 3. Saving a model (pickle, joblib)
